@@ -2,7 +2,7 @@
 
 ---
 
-#####Machine Problems Winter 2015:
+##### Machine Problems Winter 2015:
 
-*Machine Problem 1 - N-Queens' Puzzle
-*Machine Problem 2 - Decision Trees
+* Machine Problem 1 - N-Queens' Puzzle
+* Machine Problem 2 - Decision Trees
