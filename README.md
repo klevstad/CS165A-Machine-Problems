@@ -1,4 +1,4 @@
-# CS165A  @ University of California, Santa Barbara
+## CS165A  @ University of California, Santa Barbara
 
 
 Machine Problems Winter 2015:
